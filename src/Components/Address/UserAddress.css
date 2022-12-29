@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.UserAddress_OverCard{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    width:100%;
+    margin-bottom: 10px;
+}
+.UserAddress_OverCard_Add{
+    font-size: 50px;
+    color: gray;
+    font-family: poppins, sans-serif;
+    font-weight: 600;
+}
+.UserAddress_OverCard_h3{
+    color: gray;
+    font-family: poppins, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.UserAddress_OverCard_form{
+    color: gray;
+    font-family: poppins, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.CartProductList_head h3{
+    font-family: poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+.CartProductList_head img{
+    width: 70px;
+
+}
+.CartProductList_head p{
+    font-family: poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 10px;
+}
+.CartProductList_head .CartItem{
+    font-size: 25px;
+    color: green;
+    margin: 0 5px;
+}
+.CartProductList_head .CartItem1{
+    font-size: 20px;
+    color: red;
+}

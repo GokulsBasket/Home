@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.Vegetable_Card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Vegetable_Card_ProdName{
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+.Vegetable_Card_ProdName_Off{
+    font-family: poppins, sans-serif;
+    font-size: 14px;
+    text-align: right;
+    color: green;
+}
+.Vegetable_Card_ProdName_Span{
+    font-family: poppins, sans-serif;
+    font-size: 12px;
+    color: gray;
+}
+.Vegetable_Card_ProdName_Price{
+    font-family: poppins, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+.Vegetable_Card_ProdName_NotAmt{
+    font-family: poppins, sans-serif;
+    font-size: 16px;
+    text-align: right;
+    color: gray;
+}
+.Vegetable_Card_ProdName_Buy{
+    color: white;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    background-color: rgb(21, 105, 21);
+    padding: 2px;
+    border:none;
+    width: 90%;
+    margin-bottom: 8px;
+}
+.Vegetable_Card_ProdName_Buy:hover{
+    border:1px solid rgb(21, 105, 21);
+    background-color: white;
+    color:rgb(21, 105, 21); ;
+}
+.Vegetable_Card_ProdName_Buy_out{
+    color: white;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    background-color: red;
+    padding: 2px;
+    border:none;
+    width: 90%;
+    margin-bottom: 8px;
+}
+
+.Vegetable_Card_ProdName_Buy_m{
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: white;
+    margin-right:25px;
+}
+.Vegetable_Card_ProdName_Buy1{
+    color: white;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    background-color: rgb(21, 105, 21);
+    padding: 2px;
+    border:none;
+    width: 90%;
+    margin-bottom: 8px;
+}
+.Vegetable_Card_ProdName_Buy1:hover{
+    color: white;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    background-color: rgb(21, 105, 21);
+    padding: 2px;
+    border:none;
+    width: 90%;
+    margin-bottom: 8px;
+}
+.Continue_BTN_NVBR{
+    align-items: flex-end;
+}
+.Vegetable_Card_ProdName_Buy_Qty{
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: white;
+    margin-right:25px;
+}
+.Vegetable_Card_ProdName_Buy2{
+    color: white;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    background-color: rgb(21, 105, 21);
+    padding: 2px 50px;
+    border:none;
+    width: 200%;
+    margin-bottom: 8px;
+}
+.Vegetable_Card_ProdName_Avail{
+    font-family: poppins, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+.OutOfStockVegetable_Card_ProdName_Avail{
+    color:red;
+    font-family: poppins, sans-serif;
+    font-size: 15px;
+}
+.greenStockVegetable_Card_ProdName_Avail{
+    color:green;
+    font-family: poppins, sans-serif;
+    font-size: 12px;
+}
+.redStockVegetable_Card_ProdName_Avail{
+    color:red;
+    font-family: poppins, sans-serif;
+    font-size: 12px;
+}
+.Vegetable_Card_ProdName_Buy2:hover{
+    border:1px solid rgb(21, 105, 21);
+    background-color: white;
+    color:rgb(21, 105, 21); ;
+}

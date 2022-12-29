@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.AddItemIndetails .login_form_button_AddItem{
+    padding: 0 10px;
+    font-size: 16px;
+    width:100%;
+    font-weight: 500;
+    background-color: #0d57dd;
+}
+.Image_form_button_Col{
+    border:1 px solid grey;
+}
+.AddItemIndetails_TT{
+    font-family: poppins, sans-serif;
+    font-weight: 600;
+    text-align: left;
+    font-size: 22px;
+    color: gray;
+}
+.GetProduct_ADD_PROD{
+    background-color: white;
+    font-family: poppins, sans-serif;
+    font-weight: 400;
+    color: gray;
+    border: none;
+    margin-left: 100px;
+}
+.OutOfStockPara{
+    color:red;
+    font-family: poppins, sans-serif;
+    font-size: 15px;
+}
+.GetProduct_ADD_PROD:hover{
+    background-color: white;
+    font-family: poppins, sans-serif;
+    font-weight: 400;
+    color: black;
+    border: none;
+}
+.AddItemIndetails {
+    font-family: poppins, sans-serif;
+    font-weight: 600;
+}
+.GetProductDetails
+    .GetProductDetails_TH{
+        font-family: poppins, sans-serif;
+    font-size: 14px;
+    }
+    .GetProductDetails_TB tr{
+        font-family: poppins, sans-serif;
+    font-size: 15px;
+    }
+    .GetProductDetails_icon_Edit{
+        font-size: 18px;
+        color: Green;
+    }
+    .GetProductDetails_icon_Del{
+        font-size: 18px;
+        color: orangered;
+    }
